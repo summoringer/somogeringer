@@ -1,0 +1,24 @@
+body{
+    font-family: 'Nunito', sans-serif;
+    background-color:#333;
+    color: rgba(255, 255, 255, 0.972) ;
+    cursor: crosshair;
+}
+
+#header{
+    border: 2px solid;
+    border-radius: 20px;
+    border-inline-color: rgba(0, 191, 255, 0.96);
+}
+
+.link1{
+    cursor:crosshair ;
+    color: rgba(255, 255, 255, 0.972);
+    text-decoration: none;
+}
+
+.link2{
+    cursor:not-allowed ;
+    color: rgba(255, 255, 255, 0.972);
+    text-decoration: none;
+}
